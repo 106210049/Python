@@ -1,7 +1,7 @@
 import os
 os.system("cls")
 people = 30
-cars = 40
+cars = 40szcmdscsd
 buses = 15
 
 if cars > people:
